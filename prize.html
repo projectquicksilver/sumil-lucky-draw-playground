@@ -261,11 +261,11 @@ html,body{width:100%;height:100%;overflow:hidden;font-family:'Nunito',sans-serif
 <script>
 /* ══ PRIZE CONFIG ══ */
 const prizes={
-  0:{img:'assets/prizes/Harley Davidson.png',       rank:'🏆 MEGA PRIZE',   csv:'mega_prize.csv',        pageSize:1},
-  1:{img:'assets/prizes/Bullet 1.png',              rank:'⭐ 1ST PRIZE',    csv:'1st_prize.csv',         pageSize:1},
-  2:{img:'assets/prizes/cash counting machine.png', rank:'🥈 2ND PRIZE',    csv:'2nd_prize.csv',         pageSize:10},
-  3:{img:'assets/prizes/godrej safe.png',           rank:'🥉 3RD PRIZE',    csv:'3rd_prize.csv',         pageSize:20},
-  4:{img:'assets/prizes/orthopedic chair cusion.png', rank:'🎁 4TH PRIZE',csv:'consolation_prize.csv', pageSize:25}
+  0:{img:'assets/prizes/Harley Davidson.png',       rank:'GRAND PRIZE', icon:'<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>',   csv:'mega_prize.csv',        pageSize:1},
+  1:{img:'assets/prizes/Bullet 1.png',              rank:'MEGA PRIZE', icon:'<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m2 4 3 12h14l3-12-6 7-4-7-4 7-6-7zm3 16h14"/></svg>',    csv:'1st_prize.csv',         pageSize:1},
+  2:{img:'assets/prizes/cash counting machine.png', rank:'3RD PRIZE', icon:'<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7.21 15 2.66 7.14a2 2 0 0 1 .13-2.2L4.4 2.8A2 2 0 0 1 6 2h12a2 2 0 0 1 1.6.8l1.6 2.14a2 2 0 0 1 .14 2.2L16.79 15"/><path d="M11 12 5.12 2.2"/><path d="m13 12 5.88-9.8"/><path d="M8 7h8"/><circle cx="12" cy="17" r="5"/><path d="M12 18v-2h-.5"/></svg>',    csv:'2nd_prize.csv',         pageSize:10},
+  3:{img:'assets/prizes/godrej safe.png',           rank:'4TH PRIZE', icon:'<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="6"/><path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"/></svg>',    csv:'3rd_prize.csv',         pageSize:20},
+  4:{img:'assets/prizes/orthopedic chair cusion.png', rank:'5TH PRIZE', icon:'<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>',csv:'consolation_prize.csv', pageSize:25}
 };
 
 const params=new URLSearchParams(location.search);
@@ -274,7 +274,7 @@ const prize=prizes[prizeId]||prizes[1];
 
 document.getElementById('prize-img').src=prize.img;
 document.getElementById('card-img').src=prize.img;
-document.getElementById('modal-title').textContent=`🏆 ${prize.rank} — Winners`;
+document.getElementById('modal-title').innerHTML = `<span style='display:inline-flex;align-items:center;gap:8px;'>${prize.icon} ${prize.rank} — Winners</span>`;
 
 /* FX particles */
 (function(){
