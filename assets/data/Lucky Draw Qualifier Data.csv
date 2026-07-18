@@ -1,0 +1,519 @@
+Region,Territory,CUSTOMER NAME,CUSTOMER CODE,Sum of Max Coupons
+Ahmedabad,Baroda,Avadhoot Agro Sales,10006413,1
+Ahmedabad,Baroda,Nirant Agro,10011265,2
+Ahmedabad,Himmatnagar,PATIDAR KRUSHI CARE,10020984,12
+Ahmedabad,Himmatnagar,Shivam Agro Center,10018201,1
+Ahmedabad,Himmatnagar,SHREE RAM FERTILIZERS,10018539,1
+Ahmedabad,Himmatnagar,UMA KRUSHI CARE,10019711,1
+Ahmedabad,Himmatnagar,Veer Fertilisers,10004213,2
+Ahmedabad,Mehsana,Radhe Agro Center,10017356,10
+Ahmedabad,Nadiyad,Ved Agro Fertilizer,10005932,2
+Ahmedabad,Surat,AMBICA AGRO CHEMICALS,10020544,1
+Akola,Amravati,Bajaj Seeds  & Pesticides,10005955,5
+Akola,Amravati,BALAJI KRUSHI KENDRA,10021563,1
+Akola,Amravati,KRUSHIDEV AGRO AGENCY,10021565,3
+Akola,Amravati,KRUSHNARPAN AGRO CENTER,10022565,1
+Akola,Amravati,SHIVRAJ AGRI MART,10021922,1
+Akola,Amravati,Varad Krushi Kendra,10000314,1
+Akola,Basmat Nagar,PATIL TRADERS SENGAON,10018385,2
+Akola,Beed,Neha Pesticides,10010722,1
+Akola,Beed,SHRI OM SAI AGRO AGENCIES,10018951,2
+Akola,Bhandara,Dipali Agro Agency,10003171,1
+Akola,Bhandara,Girhepunje Krishi Kendra,10005985,1
+Akola,Bhandara,MOHADI AGRO AGENCIES,10022479,9
+Akola,Bhandara,SUNIL KRUSHI KENDRA,10022124,1
+Akola,Nagpur,AMAR AGRO AGENCIES,10021347,1
+Akola,Nagpur,Jagthap Krushi Seva Kendra,10002822,1
+Akola,Nagpur,NITIN MARKETING SERVICES PVT. LTD,10021348,39
+Akola,Nagpur,SHETKARI AGRO AGENCY,10019142,1
+Akola,Nagpur,SHRI AGRO INDIA,10021566,5
+Akola,Nagpur,Suprabha Krushi Sewa Kendra,10003932,1
+Akola,Nanded,Ganesh Agro Agencies,10005978,1
+Akola,Nanded,MANCHALWAD KRUSHI AGENCY,10021499,5
+Akola,Sambhajinagar,Sawta Krushi Seva Kendra,10001675,1
+Akola,Sambhajinagar,Shree Ganesh Krushi Seva,10005449,1
+Bathinda,Abohar,Garg Agro Chemicals,10001552,2
+Bathinda,Bathinda,Bassu Ram Ram Lal,10005021,1
+Bathinda,Bathinda,FRIENDS KHETI SEWA CENTRE,10021505,1
+Bathinda,Bathinda,Puri Pesticides Store,10011005,1
+Bathinda,Bathinda,Sanghera Kheti Sewa Centre,10010132,1
+Bathinda,Mansa,MALWA KHETI STORE,10018718,2
+Bathinda,Mansa,Sidhu Trading Company,10018194,1
+Bathinda,Mukatsar,Arora Pesticides & Fertilizers,10005011,1
+Bathinda,Mukatsar,BANSAL TRADERS,10019870,1
+Bathinda,Mukatsar,Dashmesh Agro Centre,10000889,1
+Bathinda,Mukatsar,Kamboj Khad Store,10015230,2
+Bathinda,Mukatsar,Punjab Pesticides,10011488,1
+Bathinda,Mukatsar,Quality Inputs,10003056,1
+Bathinda,Mukatsar,Sekhon Trading Company,10004756,2
+Bathinda,Mukatsar,Sham Trading Company,10003058,2
+Bathinda,Mukatsar,SIDHU AGRO CENTRE,10019867,1
+Davanagere,Chickballapur,Chiranthana Krishi Sewa Kendra,10012772,5
+Ghaziabad,Agra,OM TRADERS,10021433,2
+Ghaziabad,Aligarh,CROPICIDE SUPPLIERS PVT.LTD,10022378,2
+Ghaziabad,Aligarh,Johari Brothers,10005651,1
+Ghaziabad,Aligarh,Punjab Beej Bhandar,10016257,12
+Ghaziabad,Aligarh,Shankar ji Traders,10013482,5
+Ghaziabad,Bijnor,ANIL KHAD BHANDAR,10020911,2
+Ghaziabad,Bijnor,BHARAT KRISHI SEVA KENDRA,10019881,15
+Ghaziabad,Bijnor,CHAUHAN TRADERS,10019878,1
+Ghaziabad,Bijnor,KISHAN SEVA KENDRA,10019915,2
+Ghaziabad,Bijnor,SHARMA KHAD BHANDAR,10022576,1
+Ghaziabad,Bulandsahar,Bharat Keetnashak Bhandar,10005625,1
+Ghaziabad,Bulandsahar,Kisan Krishi Sewa Kendra,10014767,3
+Ghaziabad,Bulandsahar,MAHESH KUMAR & BROTHERS,10005668,2
+Ghaziabad,Meerut,S S KIRSHI SEWA KENDRA,10022452,8
+Ghaziabad,Meerut,Shiwani Trading Company,10001411,1
+Ghaziabad,Muzaffar Nagar,Balaji Beej Bhandar,10019236,5
+Ghaziabad,Muzaffar Nagar,PRATEEK TRADING COMPANY,10018569,2
+Ghaziabad,Rudrapur,CHEEMA PESTICIDES,10021079,1
+Ghaziabad,Rudrapur,DASHMESH PESTICIDES,10019957,2
+Ghaziabad,Rudrapur,Divisha Enterprises,10014585,1
+Ghaziabad,Rudrapur,Guru Teg Bahadur Pesticide & Fertil,10011256,24
+Ghaziabad,Rudrapur,GURUNANAK ENTERPRISES,10019992,1
+Ghaziabad,Rudrapur,Kumar Enterprises,10000352,1
+Ghaziabad,Rudrapur,Madhur Enterprises,10015102,1
+Ghaziabad,Rudrapur,SINGH FERTILIZERS,10019956,2
+Ghaziabad,Rudrapur,SINGH TRADERS,10020921,3
+Ghaziabad,Rudrapur,Utpatti Pesticides & Fertilizers,10021413,1
+Ghaziabad,Sahjahanpur,Agarwal Kisan Bazaar,10000758,2
+Ghaziabad,Sahjahanpur,DASHMESH KHAD BHANDAR,10021996,1
+Ghaziabad,Sahjahanpur,FIRDAUSI KRISHI SEWA KENDRA,10022233,1
+Ghaziabad,Sahjahanpur,Guru Nanak Khad Bhandar,10011167,1
+Ghaziabad,Sahjahanpur,Harshit Krishi Sewa Kendra,10013497,2
+Ghaziabad,Sahjahanpur,NEW DEVAL KHAD BHANDER,10022453,5
+Ghaziabad,Sahjahanpur,PANNU PESTICIDES,10021946,2
+Ghaziabad,Sahjahanpur,Shankar Khad Bhandar,10011865,1
+Ghaziabad,Sahjahanpur,SHYAM FERTILIZERS & PESTICIDES,10022222,5
+Guntur,Adoni,RRR AGRO SOLUTION,10022102,1
+Guntur,Adoni,Sri Venkatasai Fertilisers,10016238,2
+Guntur,Anantapur,DHATRI AGRO TECH,10022636,13
+Guntur,Anantapur,Durga Fertiliser,10011115,1
+Guntur,Anantapur,Kisan Agri Clinic,10000724,15
+Guntur,Anantapur,Lakshmi Ganapathi Traders,10010247,2
+Guntur,Anantapur,MANA AGRO AGENCY,10022101,1
+Guntur,Anantapur,Pudami Agri Mart,10011607,5
+Guntur,Anantapur,S. V. Fertilizers,10016520,2
+Guntur,Anantapur,Sathyappa Enterprises,10011617,1
+Guntur,Anantapur,SRI ANANTHA PADMANABHA AGRO,10021726,11
+Guntur,Anantapur,Sri Lakshmi Nagalingeshwara Fertili,10011806,1
+Guntur,Anantapur,Sri Subramaneswara Agro Traders,10001000,1
+Guntur,Anantapur,Y.T.R. Agri Solutions,10013571,2
+Guntur,Guntur,MADDULA RAMANANDARAO,10022275,11
+Guntur,Guntur,MASTAN FERTILIZERS,10022497,5
+Guntur,Guntur,PAVAN TRADERS,10022618,2
+Guntur,Guntur,RAGHAVA FERTILISERS & PESTICIDES,10015691,2
+Guntur,Guntur,RAMALINGESWARA TRADERS,10022155,1
+Guntur,Guntur,SAI RAM ENTERPRISES,10019398,2
+Guntur,Guntur,SRI ABHAYA ANJANEYA AGRO AGENCIES,10022153,3
+Guntur,Guntur,SRI LAKSHMI SRINIVASA PESTICIDES,10022466,5
+Guntur,Guntur,SRI MANIKANTA FERTILISERS,10021931,14
+Guntur,Guntur,SRI SIVA BRAHMESWARI TRADERS,10022274,22
+Guntur,Guntur,SRI SRINIVASA PESTICIDES,10022376,5
+Guntur,Guntur,SURESH ENTERPRISES,10022150,16
+Guntur,Guntur,Venkata Sai Vivekananada Agencies,10018146,1
+Guntur,Guntur,Venkata Siva Traders,10017432,2
+Guntur,Guntur,YUVAJANA RYTHU MITHRA FARMER,10022058,1
+Guntur,Kurnool,MARUTHI FERTILIZERS,10022279,2
+Guntur,Kurnool,Shivam Traders,10017255,2
+Guntur,Kurnool,SRI LAKSHMI DATTA VENKATESWARA,10019416,1
+Guntur,Kurnool,Sri Mallikarjuna Swamy Fertilisers,10002215,1
+Guntur,Kurnool,Sri Renuka Yellamma Fertilisers &,10011751,1
+Guntur,Kurnool,Sri Sai Traders Fertilisers,10013794,2
+Guntur,Kurnool,Swapna Chemicals,10001523,10
+Guntur,Markapuram,BALAJI TRADERS,10022020,2
+Guntur,Markapuram,Hemasai Traders,10010292,5
+Guntur,Markapuram,JAI KISAN AGROS,10022019,1
+Guntur,Markapuram,KOMALESWARI TRADERS,10022022,2
+Guntur,Markapuram,PARIMALA FERTILISERS,10022046,11
+Guntur,Markapuram,RAHITH TRADERS,10022245,2
+Guntur,Markapuram,SREE VENKATESWARA FERTILZERS,10022243,8
+Guntur,Markapuram,Sri Govardhini Agencies,10014785,1
+Guntur,Markapuram,Sri Nandini Fertilisers,10010116,2
+Guntur,Markapuram,Sri Sai Ram Traders,10015883,2
+Guntur,Markapuram,SRI SUDHARSAN AGRO AGENCIES,10022028,5
+Guntur,Markapuram,SRI VENKATESWARA ENTERPRISES,10022239,1
+Guntur,Markapuram,SRI VENKATESWARA TRADERS,10022159,1
+Guntur,Markapuram,VEERA HANUMAN TRADERS,10022151,2
+Guntur,Markapuram,VENKATESWARA TRADERS,10022024,1
+Guntur,Nandyal,BRMR AGRO AGENCIES,10021747,1
+Guntur,Nandyal,DHARANI FERTILIZERS & PESTICIDES,10021643,26
+Guntur,Nandyal,GAFFARIA PESTICIDES,10021642,2
+Guntur,PAMARRU,Bhaskar Enterprises,10011835,18
+Guntur,PAMARRU,LAKSHMI SAI FARM VISION,10022100,12
+Guntur,PAMARRU,SHANMUKHA SRI SAI TRADERS,10022272,1
+Guntur,PAMARRU,VIJAYA SRI TRADERS,10022484,5
+Guntur,Tadepalligudem,SOWJANYA FERTILIZERS & GENERAL,10018435,1
+Guntur,Tadepalligudem,Sri Ayyappa Traders,10010363,1
+Guntur,Tadepalligudem,Sri Kanaka Mahalakshmi Fertilisers,10005609,1
+Guntur,Tadepalligudem,Sri Ratna Agri Care,10002495,2
+Guntur,Tadepalligudem,VIJAYA DURGA ENTERPRISES,10022577,2
+Guntur,Vijaywada,G SUBBARAO & CO,10022021,95
+Hisar,Fatehabad,Bhaichara Khad Beej Bhandar,10012503,1
+Hisar,Fatehabad,G H Trading Company,10012504,1
+Hisar,Fatehabad,National Agriculture Store,10018046,2
+Hisar,Fatehabad,PREM ENTERPRISES,10018601,2
+Hisar,Fatehabad,Ram Kumar Sham Lal,10004010,1
+Hisar,Fatehabad,S. P. Agriculture Store,10005422,1
+Hisar,Hissar,NEELKANTH BEEJ BHANDAR,10022685,2
+Hisar,Hissar,YADAV KRISHI BHANDAR,10021715,1
+Hisar,Rohtak,Ashanand Khad Beej Bhandar,10011747,1
+Hisar,Rohtak,DADA SITA RAM KHAD BEEJ BHANDAR,10018914,1
+Hisar,Rohtak,Lala Traders,10003143,1
+Hisar,Rohtak,Raj Kumar Beej Bhandar,10014885,1
+Hisar,Rohtak,ROSE KHAD BEEJ BHANDAR,10021165,1
+Hisar,Rohtak,SHIV KHAD BEEJ BHANDAR,10018318,1
+Hisar,Sirsa,Dhaliwal Enterprises,10018236,1
+Hisar,Sirsa,Godara Pesticide & Beej,10005079,2
+Hisar,Sirsa,KRISHNA AGRO,10019835,2
+Hisar,Sirsa,Malwa Agri Mart,10017075,2
+Hyderabad,Hyderabad,Agro Rythu Seva Kendram,10021822,2
+Hyderabad,Hyderabad,RYTHU NESTHAM FERTILIZER SEEDS &,10021821,31
+Hyderabad,Hyderabad,Shilpa Traders,10011750,1
+Hyderabad,Hyderabad,Sri Bhoomi Putra Agencies,10001322,2
+Hyderabad,Hyderabad,SRIHITHA TRADERS,10021823,1
+Hyderabad,Karimnagar,Agro Rythu Seva Kendram- 2,10017807,1
+Hyderabad,Karimnagar,"AYYAPPA ENTERPRISES, FERTI, PESTI &",10021522,16
+Hyderabad,Karimnagar,COMMON SERVICE CENTER VILLAGE LEVEL,10022204,1
+Hyderabad,Karimnagar,KDCMS LTD.,10022056,1
+Hyderabad,Karimnagar,NAMO DHARANI AGRO SERVICES,10022468,1
+Hyderabad,Karimnagar,NISHITHA PESTICIDES & SEEDS,10019831,1
+Hyderabad,Karimnagar,OM SAI FERTILIZERS PESTICIDES &,10021611,8
+Hyderabad,Karimnagar,"PAVANASUTHA FERTILIZERS,PESTICIDES",10022526,1
+Hyderabad,Karimnagar,"SADHASHIVA TRADERS FERTI, PESTI &",10021800,5
+Hyderabad,Karimnagar,"SIDDIPET AGRI CLINIC,SEEDS,PESTICID",10021905,5
+Hyderabad,Karimnagar,"SRI PRASANNANJANEYA FERTI, PESTICID",10019832,2
+Hyderabad,Karimnagar,SRI RAJA RAJESHWARA FERTI PESTI SEE,10022527,1
+Hyderabad,Karimnagar,"Sri Raja Rajeshwari Fertilizer,",10017146,1
+Hyderabad,Karimnagar,SRI SHIVA SEEDS & PESTICIDES,10019146,1
+Hyderabad,Karimnagar,Sri Soumya Fertilisers & Pesticides,10002693,2
+Hyderabad,Karimnagar,"SRINIVASA FERTILIZERS, PESTICIDES &",10021527,13
+Hyderabad,Karimnagar,VORTEX AGRI PRODUCTS LLP,10022491,18
+Hyderabad,Khammam,Agro Rythu Seva Kendram,10017375,2
+Hyderabad,Khammam,Agros Rythu Seva Kendram,10011900,1
+Hyderabad,Khammam,Dhanalaxmi Enterprises,10012226,1
+Hyderabad,Khammam,KISAN SEEDS & PESTICIDES,10019556,1
+Hyderabad,Khammam,SHIVA SAI FERTILIZERS & PESTICIDES,10021758,2
+Hyderabad,Khammam,Sri Ganpathi Laxmi Sai Fertilisers,10012383,5
+Hyderabad,Khammam,SRI GAYATHRI PESTICIDES & GENERAL,10021757,8
+Hyderabad,Khammam,Sri Laxmi Prasanna Traders,10017995,2
+Hyderabad,Khammam,"Sri Tirumala Pesticides, Fertilizer",10017996,1
+Hyderabad,Nalgonda,Rythu Mitra Agro Traders,10002707,2
+Hyderabad,Nalgonda,RYTHUMITHRA AGRO AGNCIES,10022202,1
+Hyderabad,Nalgonda,"Rythumithra Seeds & Fertilizers,",10018016,1
+Hyderabad,Nalgonda,SADHGURU FERTILIZERS&PESTICIDES,10022403,5
+Hyderabad,Nalgonda,Shiva Sai Traders,10015821,2
+Hyderabad,Nalgonda,SRI LAKSHMI GANESHA ENTERPRISES,10022512,2
+Hyderabad,Nalgonda,Sri Lakshmi Narasimha Agro Agencies,10017813,2
+Hyderabad,Nalgonda,SRI LAXMI SAI FERTI & PESTICIDES,10019376,2
+Hyderabad,Nalgonda,SRI SRINIVASA AGRI MALL,10022201,1
+Hyderabad,Nalgonda,Sri Srinivasa Seeds & Pesticides,10017993,2
+Hyderabad,Nalgonda,"TAARA FERTILIZERS, PESTICIDES & SEE",10022402,1
+Hyderabad,Nizamabad,Agro's Rythu Seva Kendram,10017041,1
+Hyderabad,Nizamabad,BALA FERTILIZERS,10021140,5
+Hyderabad,Nizamabad,"GANGA FERTILIZERS, PESTICIDES &",10019106,1
+Hyderabad,Nizamabad,Haritha Agro Agencies,10017042,17
+Hyderabad,Nizamabad,Rythu Depot Seeds & Pesticides,10010382,2
+Hyderabad,Nizamabad,Rythu Nestham Traders,10017055,5
+Hyderabad,Nizamabad,SHIVA SHAKTI TRADERS,10019068,5
+Hyderabad,Nizamabad,SHIVKRUPA FERTILIZER SALURA,10022579,1
+Hyderabad,Nizamabad,Sri Laxmi Enterprises,10013334,1
+Hyderabad,Nizamabad,"SRI LAXMI NARASIMHA FERTI, SEEDS &",10019069,2
+Hyderabad,Nizamabad,Sri laxmi Narasimha Seeds &,10017057,2
+Hyderabad,Nizamabad,SRI LAXMI TRADERS,10022514,2
+Hyderabad,Nizamabad,SRI LAXMI VENKATESHWARA AGENCY,10019110,1
+Hyderabad,Nizamabad,Sri Raja Rajeshwara Agro Agencies,10017731,2
+Hyderabad,Nizamabad,SRI RAJA RAJESHWARA SEEDS & PESTICI,10022515,12
+Hyderabad,Nizamabad,SRI RAJARAJESHWARA TRADERS,10019411,2
+Hyderabad,Warangal,NAGENDRA SEEDS,10022103,2
+Hyderabad,Warangal,NATARAJA SEEDS AND PESTICIDES,10022508,3
+Hyderabad,Warangal,NAVYA FERTILIZERS,10022509,5
+Hyderabad,Warangal,Raja Rajeshwara Pesticides & Seeds,10013184,1
+Hyderabad,Warangal,RUSHI FERTILIZERS PESTICIDES SEEDS,10021518,2
+Hyderabad,Warangal,SRI NAVYA FERTILIZERS,10021983,2
+Indore,Bhopal,PATEL & SONS KRISHI SEWA KENDRA,10019329,5
+Indore,Bhopal,SADA SHIV SHANKAR TRADERS,10021731,2
+Indore,Chhindwara,SHRI NAKODA TRADERS,10019275,1
+Indore,Harda,Manglam Fertilisers,10013244,2
+Indore,Harda,Shri Ram Krishi Sewa Kendra,10011378,2
+Indore,Indore,Choudhary Krihsi Seva Kendra,10002048,1
+Indore,Indore,SHRI KRISHNA KRISHI SEWA KENDRA,10019462,1
+Indore,Indore,Shri Patel Krishi Sewa Kendra,10002346,2
+Indore,Indore,Vinayak Krishi Seva Kendra,10002315,1
+Indore,Jabalpur,VINIT KRISHI KENDRA,10018654,2
+Indore,Khandwa,SARVODAYA KRISHI KENDRA,10022734,5
+Indore,Mandasour,Ambika Krishi Sewa Kendra,10012579,1
+Indore,Mandasour,JAI BANJARI BALAJI KRISHI SEVA,10020476,1
+Indore,Mandasour,Malwa Krishi Mandir,10000278,2
+Indore,Mandasour,PATEL KRISHI SEVA KENDRA,10020120,1
+Indore,Mandasour,PATIDAR AGRICULTURE STORE,10018991,17
+Indore,Mandasour,PATIDAR AGRITECH,10020355,2
+Indore,Mandasour,Patidar Agro Chemicals,10003723,5
+Indore,Mandasour,PUROHIT KRUSHI CLINIC,10019990,2
+Indore,Mandasour,Sanwariya Krishi Sewa Kendra,10002454,1
+Indore,Mandasour,Shree Ji Beej Bhandar,10017069,1
+Indore,Narmadapuram,Sai Traders,10005529,2
+Indore,Narmadapuram,Samaiya Traders,10012645,1
+Indore,Narmadapuram,Samiksha Agro Agency,10000164,5
+Indore,Ratlam,Ashwin Krishi Seva Kendra,10010781,1
+Indore,Ratlam,ASTHA KRISHI SEWA KENDRA,10020239,2
+Indore,Ratlam,Choudhary Krishi Sewa Kendra,10005481,1
+Indore,Ratlam,Gajendra Krishi Seva Kendra,10012805,1
+Indore,Ratlam,JAI GURUDEV KRISHI SEVA KENDRA,10020155,2
+Indore,Ratlam,JAY UMIYA TRADERS,10020615,1
+Indore,Ratlam,Kisan Krishi Sewa Kendra,10012373,2
+Indore,Ratlam,Mahakal Enterprises,10010131,1
+Indore,Ratlam,MAHAMAYA KISAN BAZAR,10020238,1
+Indore,Ratlam,Rahul Krishi Seva Kendra,10012931,1
+Indore,Ratlam,Rathod Krishi Sewa Kendra,10005523,1
+Indore,Ratlam,Sairam Kisan Bazar,10017354,2
+Indore,Ratlam,Shree Keshav Kisan Bazaar,10000086,1
+Indore,Ratlam,Shri Nitya Agro Agency,10013152,1
+Indore,Ratlam,SHRI SAWARIYA KRUSHI BAZAR,10020154,5
+Indore,Ratlam,Shri Yogmaya Agro Agency,10005544,1
+Indore,Ratlam,YADUWANSHI KRISHI SEWA KENDRA,10020605,1
+Indore,Sagar,AMBIKA KHAD BEEJ BHANDAR,10019274,1
+Indore,Sagar,ANSHIKA KHAD BEEJ BHANDAR & TRADERS,10021743,5
+Indore,Sagar,KUSHWAHA BEEJ BHANDAR,10020098,13
+Indore,Sagar,MAA JWALA KRISHI KENDRA,10021741,2
+Indore,Sagar,Riddhi Siddhi Krishi Seva Kendra,10013409,10
+Indore,Sagar,SHREE SAHU KRISHI SEWA KENDRA,10021655,2
+Indore,Sagar,SOURABH KRISHI SEVA KENDRA,10019765,2
+Indore,Sagar,THAKUR KRISHI SEVA KENDRA,10018827,5
+Indore,Sagar,VAISHNAVI KRISHI SEVA KENDRA,10022133,1
+Indore,Ujjain,MAA CHAMUNDESHWARI KRISHI SEWA,10022080,1
+Indore,Ujjain,Maa Vaishno Krishi Sewa Kendra,10005500,2
+Indore,Ujjain,PALIWAL INSECTICIDES,10020487,2
+Indore,Ujjain,Patidar Agro Chemicals,10012894,2
+Indore,Ujjain,Yogeshwar Agro Agency,10001999,2
+Jaipur,Chittorgarh,Jai Laxmi Beej Bhandar,10000018,1
+Jaipur,Jhalawar,DAKSH PRAJAPATI KISAN SEVA KENDRA,10019650,1
+Jaipur,Jhalawar,Jai Bhawani Krishi Sewa Kendra,10012399,2
+Jaipur,Jhalawar,KISAN AGRO TECH,10022349,1
+Jaipur,Jhalawar,Maheshwari Krishi Seva Kendra,10005316,1
+Jaipur,Jhalawar,NAV DURGA KRISHI SEVA KENDRA,10019233,1
+Jaipur,Jhalawar,SHREE RAM KHAD BEEJ BHANDAR,10019687,1
+Jaipur,Jhalawar,TIRUPATI TRADING COMPANY,10018499,2
+Jaipur,Jodhpur,Jai Kisan Krishi Sewa Kendra,10010610,1
+Jaipur,Jodhpur,Kanhaiya Krishi Kendra,10005283,2
+Jaipur,Kota,JAI BAJRANG BALI KRISHI SEVA KENDRA,10020520,1
+Jaipur,Kota,Jai Jogniya Krishi Seva Kendra,10005765,1
+Jaipur,Kota,SAINI KHAD BEEJ BHANDAR,10019199,2
+Jaipur,Kota,Shree Hari Krishi Seva Kendra,10010579,1
+Jaipur,Kota,SHRI SHYAM KRISHI  SEVA KENDRA,10019298,1
+Jaipur,Kota,YASHREE KRISHI SEVA KENDRA,10019246,2
+Jaipur,Nagour,NEW DARIYAV AGRO AGENCY,10022259,1
+Jaipur,Sumerpur,Apeshwar Agro Agency,10002656,8
+Jaipur,Sumerpur,Chamunda Enterprises,10009982,2
+Jaipur,Sumerpur,Chamunda Khad Beej Bhandar,10003746,1
+Jaipur,Sumerpur,Choudhary Khad Beej Bhandar,10005250,1
+Jaipur,Sumerpur,DURGA SALES CORPORATION,10022134,1
+Jaipur,Sumerpur,Kamal Fertilizers,10005282,2
+Jaipur,Sumerpur,KISAN AGRO MART,10022136,3
+Jaipur,Sumerpur,KRISHNA AGRO SALES,10022507,1
+Jaipur,Sumerpur,NEW RAJESHWAR KHAD BIJ BHANDAR,10018537,2
+Jaipur,Sumerpur,SHREE RAMDEV KRISHI SEVA KENDRA,10022135,2
+Jaipur,Sumerpur,Voveshwar Agro Centre,10015595,1
+Karnal,Ambala,Garg Pesticides & Seed Store,10005071,2
+Karnal,Ambala,GULATI PESTICIDES AND SEEDS STORE,10022568,1
+Karnal,Ambala,Kisan Khad Bhandar,10022569,1
+Karnal,Ambala,Mahavir Trading Company,10005084,8
+Karnal,Ambala,Shiv Trading Company,10005098,2
+Karnal,Karnal,GREENTECH AGRO SCIENCE,10020049,1
+Karnal,Karnal,JAIPUR TRADERS,10021908,1
+Karnal,Karnal,Pooja Trading Company,10011000,1
+Lucknow,Allahabad,WAHAJ AND SONS TRADERS,10021764,2
+Lucknow,Barabanki,Ramendra Kumar Gupta,10005153,13
+Lucknow,Bewar,Balistar Khad Bhandar,10013793,1
+Lucknow,Bewar,Hitansh Beej Bhandar,10005120,9
+Lucknow,Bewar,J S KHAD BHANDAR,10021206,5
+Lucknow,Bewar,Jay Kisan Beej Bhandar,10005122,5
+Lucknow,Bewar,Siddarth Beej Bhandar,10002376,1
+Lucknow,Fatehpur,Kisan Sewa Kendra,10021103,5
+Lucknow,Fatehpur,Manas Traders,10003799,1
+Lucknow,Fatehpur,SAHU & SONS,10019824,1
+Lucknow,Lakhimpur,Kisan Khad Bhandar,10021144,5
+Lucknow,Lakhimpur,Kisan Sewa Kendra,10014223,8
+Lucknow,Lakhimpur,MAA JANKI ENTERPRISES,10022684,1
+Lucknow,Lucknow,New Sanjay  Traders,10005143,25
+Lucknow,Lucknow,Prabhat Krishi Upchar Kendra,10005147,48
+Lucknow,Lucknow,Rahimabad Agro Chemicals,10005150,13
+Lucknow,Lucknow,Ravi Krishi Seva Kendra,10005156,2
+Lucknow,Lucknow,Shad Pesticides,10005160,63
+Lucknow,Lucknow,Singh Beej Bhandar,10013410,125
+Lucknow,Lucknow,SINGH TRADERS,10021029,25
+Lucknow,Lucknow,Yadav Pesticides,10005169,50
+Lucknow,Sitapur,Anand Krishi New Takniki Kendra,10003785,1
+Lucknow,Sitapur,New Vinod Beej Bhandar,10005144,5
+Ludhiana,Khanna,AGRI FARM PESTICIDES,10020805,1
+Ludhiana,Khanna,Charanjit Khad Store,10014465,1
+Ludhiana,Khanna,DHIR FERTILIZER SALES CORPORATION,10021455,1
+Ludhiana,Khanna,International Plant Protectors,10005041,1
+Ludhiana,Khanna,Jagdish Chand Rameshwar Dass,10005043,1
+Ludhiana,Khanna,KISSAN KHETI SEWA CENTRE,10021457,2
+Ludhiana,Moga,GURU NANAK PESTICIDES,10018339,5
+Ludhiana,Moga,Kaler Pesticides,10005052,1
+Ludhiana,Moga,Kissan Pesticides,10018256,9
+Ludhiana,Phagwara,HARJIT KHETI STORE,10021605,1
+Ludhiana,Phagwara,Janta Trading Co.,10005044,2
+Ludhiana,Phagwara,Minhas Pesticides & Seeds Store,10004734,5
+Ludhiana,Phagwara,Sagar Chemicals & Fertilizers,10004747,1
+Pune,Ahilyanagar,GURUKRUPA AGRO AGENCIES,10021895,1
+Pune,Ahilyanagar,OM SAI AGRO SERVICES,10019319,1
+Pune,Ahilyanagar,Sagar Krishi Seva Kendra,10004940,1
+Pune,Ahilyanagar,Sai Krushi Seva Kendra,10002779,1
+Pune,Ahilyanagar,Sankalp Agro Services,10002543,1
+Pune,Ahilyanagar,Sanmarg Krushi Seva Kendra,10002545,1
+Pune,Ahilyanagar,Soham Agro Services,10000580,1
+Pune,Ahilyanagar,Varad Agro Service,10000317,1
+Pune,Ahilyanagar,Vighnahar Krishi Seva Kendra,10004998,1
+Pune,Dhule,Dhandai Agro Agency,10011988,2
+Pune,Dhule,MAA UTKARSHINI FARMER PRODUCER,10020240,13
+Pune,Dhule,SHIVANERI KRUSHI SEVA KENDRA,10021268,2
+Pune,Dhule,Upkar Agency,10014264,2
+Pune,Dhule,Vijay Beej Bhandar,10020003,8
+Pune,Malegaon,Sai Krishi Seva Kendra,10002193,1
+Pune,Nashik,ABHISHEK SHETI UDYOG AGENCY,10021967,2
+Pune,Nashik,AMEYA AGRO HI- TECH,10019662,1
+Pune,Nashik,Dhumal Agro Agency,10017374,1
+Pune,Nashik,Gurukrupa Agro Services – Vadangali,10014463,1
+Pune,Nashik,Krushiganga Agro Agencies,10017774,1
+Pune,Nashik,MAULI KRUSHI UDYOG,10022016,19
+Pune,Nashik,Onkar Agrotech,10004923,2
+Pune,Nashik,SAI AGRO INDUSTRIES,10021900,2
+Pune,Nashik,SHRUTI KRUSHI SEVA KENDRA,10019443,2
+Pune,Nashik,SKVP Brother,10014773,1
+Pune,Nashik,Tirupati Agros,10004995,15
+Pune,Nashik,Venkatesh Seeds,10000803,5
+Pune,Nashik,VIVEKSHIL AGRO MART,10022167,2
+Pune,Pune,KRUSHISHAKTI AGRO AGENCIES,10020994,1
+Pune,Pune,Mauli Krishi Bhandar,10004909,1
+Pune,Pune,New Kisan Agro Mall,10010486,2
+Pune,Pune,Pragat Shetkari Krushi Agency,10002574,5
+Pune,Pune,SHRI GANESH AGRO AGENCIES,10020010,1
+Pune,Pune,SHRI PANDURANG KRUSHI SEVA KENDRA,10020011,1
+Pune,Sangli,Lucky Sheti Seva Kendra,10003824,1
+Pune,Sangli,MAHALAXMI KRUSHI SEVA KENDRA,10018605,1
+Pune,Sangli,Mahalaxmi Krushi Udyog,10004903,1
+Pune,Sangli,Shripad KrIshi Sewa Kendra,10004974,2
+Pune,Satara,AMRAI KRISHI SEVA KENDRA,10020197,40
+Pune,Satara,KOKAN AGRO SERVICES,10021010,2
+Pune,Satara,KOKAN KRISHI SEVA KENDRA,10022003,2
+Pune,Satara,Omkar Krishi Seva Kendra,10002324,8
+Pune,Satara,S B AGRO,10020200,23
+Pune,Satara,Sarthak Agro Agency,10017172,2
+Pune,Satara,Sawant Agro Agency,10017175,2
+Raipur,Bilaspur,Aman Krishi Seva Kendra,10012549,2
+Raipur,Bilaspur,AVINASH TRADERS,10021403,11
+Raipur,Bilaspur,DURGA TRADERS,10022470,45
+Raipur,Bilaspur,ELLIE KRISHI KENDRA,10021806,5
+Raipur,Bilaspur,KASHYAP AGENCY,10020846,32
+Raipur,Bilaspur,Kisan Khad Bhandar,10011554,2
+Raipur,Bilaspur,KISAN MITAN KRISHI KENDRA,10019716,3
+Raipur,Bilaspur,LAXMI KRISHI SEVA KENDRA,10022567,2
+Raipur,Bilaspur,Om Sai Traders,10015466,1
+Raipur,Bilaspur,Rohit Krishi Kendra,10021492,2
+Raipur,Dhamtari,Dev Krishi Kendra,10002609,1
+Raipur,Dhamtari,DHAMTARI KRISHI KENDRA,10019806,2
+Raipur,Dhamtari,Kisan Mitan,10002480,1
+Raipur,Dhamtari,Kisan Sewa Kendra,10012081,23
+Raipur,Dhamtari,KISHAN MITAN BEEJ BHANDAR,10020586,1
+Raipur,Dhamtari,Laxmi Krishi Kendra & Hardware,10012788,1
+Raipur,Dhamtari,MAHENDRA TRADERS,10019978,1
+Raipur,Dhamtari,MARKAM KRISHI KENDRA,10020111,1
+Raipur,Dhamtari,NAVEEN KRISHI KENDRA,10018719,1
+Raipur,Dhamtari,Om Krishi Kendra,10016596,5
+Raipur,Dhamtari,Patel Krishi Kendra,10001688,1
+Raipur,Dhamtari,SINHA KHAD BHANDAR,10020057,11
+Raipur,Dhamtari,Tulsi Krishi Kendra,10012789,3
+Raipur,Durg,AADITYA AGRO TECH,10022661,28
+Raipur,Durg,Annapurna Beej Bhandar,10011555,1
+Raipur,Durg,Gopal Krishi Sewa Kendra,10002555,16
+Raipur,Durg,Lodhi Krishi Kendra,10001575,9
+Raipur,Durg,Sahu Krishi Kendra,10010670,5
+Raipur,Mahasumund,AMIT KRISHI KENDRA & KHADYA BHANDAR,10019415,8
+Raipur,Mahasumund,ANNADATA KRISHI KENDRA,10022755,5
+Raipur,Mahasumund,KHEMRAJ KRISHI SEWA KENDRA,10019717,25
+Raipur,Mahasumund,Pradeep Krishi Kendra,10015500,2
+Raipur,Mahasumund,Preet Krishi Kendra,10018121,1
+Raipur,Mahasumund,RAI KRISHI KENDRA,10019489,25
+Raipur,Mahasumund,Shree Ram Traders Krishi Sewa Kendr,10018026,1
+Raipur,Mahasumund,TEJ BEEJ BHANDAR,10022662,3
+Raipur,Mahasumund,YADAV TRADERS,10022116,1
+Salem,Dharmapuri,MAGIZH CROP CARE,10022067,21
+Salem,Erode,ERODE SRI BALAMURUGAN AGRO AGENCIES,10019475,1
+Salem,Erode,K.B.S Agro Traders,10003950,9
+Salem,Erode,Rasi Agro Service,10005854,2
+Salem,Erode,VISHAKA CROP CARE,10022094,36
+Salem,Kanchipuram,PARVATHY TRADERS,10021071,2
+Salem,Kanchipuram,S S AGRI,10019315,2
+Salem,Kanchipuram,Sakthi Seeds,10010253,2
+Salem,Kanchipuram,Saranya Agro Agencies,10015429,2
+Salem,Kanchipuram,SHRI SAI AGRI CLINIC,10019316,5
+Salem,Kanchipuram,Sri Krishna Agro Centre,10017165,1
+Salem,Madurai,Bharath Agro Traders-Nilakottai,10005811,2
+Salem,Madurai,Nanban Farm Services,10014675,2
+Salem,Madurai,Sivaram Agro Firm,10005872,5
+Salem,Madurai,SND Agencies,10013586,2
+Salem,Madurai,VENKATASUBRAMANIA VIVASAYA STORE,10018328,2
+Salem,Salem,SAIRAM AGRO MARKETING,10022138,10
+Salem,Thanjawr,Erode Moorthy Agencies,10005816,20
+Salem,Thanjawr,J ABDUL RAZAK FERTI & PESTICIDES,10019770,2
+Salem,Thanjawr,Kulandaivel Agency,10005833,5
+Salem,Thanjawr,Murugan Traders,10010959,1
+Salem,Thanjawr,R.Tharmaraj Natrayar Fertilizers &,10003962,2
+Salem,Thanjawr,Raj Seeds & Insecticides,10002219,2
+Salem,Thanjawr,Ramaiyan Agro Service,10011408,1
+Salem,Thanjawr,Rockfort Agro Corporation,10015376,13
+Salem,Thanjawr,Shrinivas Agro Traders,10012853,1
+Salem,Thanjawr,SUGAM AGRO AGENCIES,10019769,16
+Salem,Theni,Arasu Pandian Farm Service,10005461,5
+Salem,Theni,Cumbum Valley Grape Growers Company,10001820,1
+Salem,Theni,Sri Ganesh Agro Farm,10017140,5
+Salem,Theni,SRI KRISHNA AGRO TRADERS,10022112,19
+Salem,Theni,Sri Poorna Fertilizers,10013081,2
+Salem,Theni,Vasantham Agencies,10015611,10
+Salem,Tirunelveli,BHARANI AGRO SERVICE,10005809,20
+Salem,Tirunelveli,Sathya Agro Centre,10005864,1
+Salem,Tirunelveli,Sri Murugan Store,10017799,2
+Salem,Tirunelveli,Sri Ramkumar Traders,10005893,1
+Salem,Tirunelveli,Sri Saravana Stores,10003971,2
+Salem,Tiruvarur,Annai Agencies,10015532,8
+Salem,Tiruvarur,DEEPA TRADERS,10019772,2
+Salem,Vellore,A.T.R Agro Service,10005805,1
+Salem,Vellore,Elamukilan Agro Marketers,10013812,71
+Salem,Vellore,GREEN AGRO CHEMICALS,10019885,1
+Salem,Vellore,HARINI TRADERS,10022121,2
+Salem,Vellore,Sri Gokulakrishna Trader,10013343,1
+Salem,Vellore,Sri Vinayaga Pannai Service,10001204,1
+Salem,Villapuram,Elumalai Farm Service,10015943,2
+Salem,Villapuram,Sai Agro Centre,10010412,1
+Saurashtra,Bhavnagar,Khodiyar Agro Centre,10012052,1
+Saurashtra,Bhavnagar,Raj Chamunda Agro Agency,10010916,1
+Saurashtra,Bhuj,Shree Ganesh Agro,10000735,5
+Saurashtra,Jamnagar,Kanzar Agro Center,10011778,1
+Saurashtra,Jamnagar,Ravi Agro Centre,10004183,1
+Saurashtra,Jamnagar,SHREE MOMAI AGRO AGENCY,10020590,2
+Saurashtra,Jamnagar,Shri Rudiben Agro Seeds,10011477,1
+Saurashtra,Jamnagar,Vikas Agro Agency,10005933,3
+Saurashtra,Junagadh,VIJAY AGRO AGENCY,10021199,2
+Saurashtra,Rajkot,Kishan Agro Centre,10011388,2
+Saurashtra,Rajkot,Navyug Tradins Co.,10006172,2
+Saurashtra,Rajkot,Radhe Agro Centre,10002929,2
+Saurashtra,Rajkot,Somnath Agro Traders,10015282,1
+Saurashtra,Surendra Nagar,Umiya Agro,10011984,2
+Saurashtra,Talala,Khodiyar Agro Centre,10002520,1
+Saurashtra,Talala,Mahi Agro Agency,10015011,1
+Saurashtra,Talala,OM AGRO CENTRE,10021510,2
+Sindhanur,Belagavi,LAXMI KRISHI SEVA KENDRA,10022529,2
+Sindhanur,Belagavi,PARAS KRUSHI UDYOG,10021904,8
+Sindhanur,Bellary,HAGALOORESWARA & ANJALI TRADERS,10021865,2
+Sindhanur,Bellary,K G N Enterprises,10011558,2
+Sindhanur,Bellary,KISAN AGRI SOLUTIONS,10021995,2
+Sindhanur,Bellary,P V ENTERPRISES,10022192,3
+Sindhanur,Bellary,SANNIDHI ENTERPRISES,10018593,1
+Sindhanur,Bellary,SRI VENKATESHWARA AGRO TRADERS,10018592,2
+Sindhanur,Gulbarga,RACHOTI VEERABHADRESHWAR &,10021867,1
+Sindhanur,Shahapur,BASAVESWARA AGRO AGENCY,10022107,1
+Sindhanur,Shahapur,SHIVA AGRO KENDRA,10022230,1
+Sindhanur,Shahapur,Sri Mailaraligeshwar Krushi Kendra,10013719,1
