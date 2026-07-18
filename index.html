@@ -498,6 +498,11 @@ html, body {
 }
 
 </style>
+<!-- PRELOAD CRITICAL ASSETS FOR PERFORMANCE -->
+<link rel="preload" href="assets/audio/bg_music.mp3" as="audio">
+<link rel="preload" href="assets/images/main_banner.png" as="image">
+<link rel="preload" href="assets/images/Spin_this_wheel_transparent.gif" as="image">
+<link rel="preload" href="assets/images/granulam_podium.png" as="image">
 </head>
 <body>
 
@@ -657,7 +662,7 @@ html, body {
   </div><!-- end .content -->
 </section>
 
-<script src="js/audio.js?v=2"></script>
+<script src="js/audio.js?v=3"></script>
 <script>
 (function(){
   const layer = document.getElementById('fx');
